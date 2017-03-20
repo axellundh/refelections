@@ -1,0 +1,1 @@
+To stat a new git repository to "activate" the version controll.

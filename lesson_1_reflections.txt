@@ -1,0 +1,7 @@
+I saw the bug because a did not have to search
+manually for the lines that had changed
+
+If a big occurs and you do not notice it right away
+rolling back to a working version can be very helpful
+
+Makes sure the systems only saves then I think it its necessary, har for system to know whern I made a logical change or just regular edting.
