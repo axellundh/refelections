@@ -1,1 +1,4 @@
 To stat a new git repository to "activate" the version controll.
+
+The staging area make it possible to
+collect several changes in one commit.
