@@ -6,3 +6,5 @@ collect several changes in one commit.
 You may add changes in several files related to the same logic to one commit.
 
 To test out new features before adding to "working code" keeps code clean.
+
+Helps get an overview of features in development
