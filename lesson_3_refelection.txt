@@ -1,3 +1,7 @@
 In order to sync work between diffrent machines and to collaborate with others.
 
 In order to make sure you only get the changes you want.
+
+clone = copy while keeping file history
+forking = cloning a repository on github with having to first clone it you your local machine
+branching = Create a new version of the code within the same repository.
